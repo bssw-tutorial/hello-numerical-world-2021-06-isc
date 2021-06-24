@@ -1,6 +1,6 @@
 # Hello Numerical World
 
-**NOTE:** This repo was [*imported*](https://docs.github.com/en/github/importing-your-projects-to-github/importing-a-repository-with-github-importer) from [here](https://github.com/markcmiller86/hello-numerical-world.git) 
+***NOTE:*** This repo was [*imported*](https://docs.github.com/en/github/importing-your-projects-to-github/importing-a-repository-with-github-importer) from [here](https://github.com/markcmiller86/hello-numerical-world.git) 
 
 [![Build Status](https://travis-ci.com/betterscientificsoftware/hello-numerical-world.svg?branch=main)](https://travis-ci.com/betterscientificsoftware/hello-numerical-world) [![codecov](https://codecov.io/gh/betterscientificsoftware/hello-numerical-world/branch/main/graph/badge.svg)](https://codecov.io/gh/betterscientificsoftware/hello-numerical-world)
 
